@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Pelayanan Surat Keterangan Online Kelurahan Wergu Wetan</title>
+    <title>Pelayanan Surat Keterangan Online Kelurahan Batu IX</title>
     <!-- core CSS -->
     <link href="main/css/bootstrap.min.css" rel="stylesheet">
     <link href="main/css/font-awesome.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
     <section id="cta2">
         <div class="container">
             <div class="text-center">
-                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms"><span>PELAYANAN</span> SURAT KETERANGAN <br> KELURAHAN WERGU WETAN</h2>
+                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms"><span>PELAYANAN</span> SURAT KETERANGAN <br> KELURAHAN BATU IX</h2>
                 <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">KLIK LOGIN UNTUK REQUEST PEMBUATAN SURAT KETERANGAN
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
@@ -184,7 +184,7 @@
                             </div>
                             <div class="media-body">
                                 <h4 class="media-heading">Permohonan Disetujui</h4>
-                                <p>Permohonan di setujui oleh lurah, kemudian staf akan mencetak surat sesuai request surat yang diajukan, pemohon mengambil surat yang sudah dicetak dan bertandatangan di Kantor Kelurahan Wergu Wetan.</p>
+                                <p>Permohonan di setujui oleh lurah, kemudian staf akan mencetak surat sesuai request surat yang diajukan, pemohon mengambil surat yang sudah dicetak dan bertandatangan di Kantor Kelurahan batu IX.</p>
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@
 
     <section id="contact">
         <div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.6177756555217!2d110.84666041431609!3d-6.816256968564331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70c4e731de9701%3A0xc9561da6c650e3c4!2sKantor%20Kelurahan%20Wergu%20Wetan!5e0!3m2!1sen!2sid!4v1639534764090!5m2!1sen!2sid"  width="100%" height="650px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" alt="lokasi kelurahan"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d583.1712771649287!2d104.51266902644757!3d0.9196517856945353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d96daea1a3322d%3A0xb8d0048de9d9e6f!2sKantor%20Lurah%20Batu%20IX!5e0!3m2!1sid!2sid!4v1695282476100!5m2!1sid!2sid"  width="100%" height="650px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" alt="lokasi kelurahan"></iframe>
         </div>
     </section>
     <!--/#bottom-->
@@ -219,7 +219,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; <?php echo date('Y');?> KANTOR KELURAHAN WERGU WETAN KECAMATAN GEBOG KABUPATEN KUDUS
+                    &copy; <?php echo date('Y');?> KANTOR KELURAHAN BATU IX KECAMATAN TANJUNGPINANG TIMUR KOTA TANJUNGPINANG
                 </div>
                 <div class="col-sm-6">
                     <ul class="social-icons">
