@@ -108,7 +108,7 @@
 <body>
 <table border="0" align="center">
         <tr>
-        <td><img src="img/kudus.png" width="70" height="87" alt=""></td>
+        <td><img src="img/logo-pemko.png" width="70" height="87" alt=""></td>
         <td></td>
         <td></td>
         <td></td>
@@ -130,8 +130,8 @@
         <td></td>
             <td>
                 <center>
-                    <font size="4"><b>LAPORAN REQUEST SURAT KETERANGAN</b></font><br>
-                    <font size="4"><b>KELURAHAN WERGU WETAN</b></font><br>
+                    <font size="4"><b>LAPORAN PERMINTAAN SURAT KETERANGAN</b></font><br>
+                    <font size="4"><b>KELURAHAN BATU IX</b></font><br>
                     <font size="4"><b>TAHUN <?php echo $tahun;?></b></font><br>
                 </center>
             </td>
@@ -208,16 +208,16 @@
 <br>
         <table border='0' align="right">
             <tr>
-                <td style="text-align: center"><b>Kudus, <?php echo date('d F Y');?></b></td>
+                <td style="text-align: center"><b>Tanjungpinang, <?php echo date('d F Y');?></b></td>
             </tr>
         </table>
         <br><br><br><br><br>
         <table border='0' align="right">
             <tr>
-                <td style="text-align: center"><b>Lurah Wergu Wetan</b></td>
+                <td style="text-align: center"><b>Lurah Batu IX</b></td>
             </tr>
             <tr>
-                <td style="text-align: center"><b>Agus Supriyanto</b></td>
+                <td style="text-align: center"><b>Rejab Ely S.Sos</b></td>
             </tr>
         </table>
 </body>

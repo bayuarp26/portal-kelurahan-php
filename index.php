@@ -45,7 +45,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php"><img src="main/img/logo4.png" width="150" height="54" alt="logo"></a>
+                    <a class="navbar-brand" href="index.php"><img src="main/img/logo4.png" width="100" height="80" alt="logo"></a>
                 </div>
 
                 <div class="collapse navbar-collapse navbar-right">
@@ -118,7 +118,7 @@
                             <img src="main/img/clock.png" alt="">
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">SABTU - AHAD</h4>
+                            <h4 class="media-heading">SABTU - MINGGU</h4>
                             <p>LIBUR</p>
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                             </div>
                             <div class="media-body">
                                 <h4 class="media-heading">Mengajukan Surat Permohonan</h4>
-                                <p>Setelah input data pemohon dengan lengkap dan benar, Pemohon memilih Surat yang mau direquest serta melengkapi data request, Kemudian Dikirim dan Menunggu persetujuan dari Lurah.</p>
+                                <p>Setelah input data pemohon dengan lengkap dan benar, Pemohon memilih Surat yang mau diminta serta melengkapi data, Kemudian Dikirim dan Menunggu persetujuan dari Lurah.</p>
                             </div>
                         </div>
                     </div>
@@ -223,10 +223,7 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="social-icons">
-                        <li><a href="https://www.instagram.com/fachrishofiyyuddin/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="https://www.facebook.com/profile.php?id=100005519746461" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCzdAstXxirdPWsTcdyl9DQg" target="_blank"><i class="fa fa-youtube"></i></a></li>
-                        <li><a href="https://github.com/fachrishofiyyuddin" target="_blank"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://github.com/bayuarp26" target="_blank"><i class="fa fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>

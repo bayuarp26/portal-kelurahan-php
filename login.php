@@ -27,8 +27,8 @@
         <div class="row w-100 mx-0">
           <div class="col-lg-4 mx-auto">
             <div class="auth-form-light text-left py-5 px-4 px-sm-5">
-              <div class="brand-logo">
-                <img src="main/img/logo4.png" width="150" height="54" alt="logo">
+              <div class="brand-logo  d-flex justify-content-center">
+                <img src="main/img/logo4.png" width="100" height="100" alt="logo">
               </div>
               <h4>LOGIN PEMOHON</h4>
               <h6 class="font-weight-light"></h6>
@@ -49,7 +49,7 @@
                   
                 </div>
                 <div class="mb-2">
-                  <a class="btn btn-block btn-danger btn-lg font-weight-medium auth-form-btn" href="http://localhost/surat-keterangan-desa/">BATAL</a>
+                  <a class="btn btn-block btn-danger btn-lg font-weight-medium auth-form-btn" href="http://localhost/portal-kelurahan/">BATAL</a>
                 </div>
                 <div class="text-center mt-4 font-weight-light">
                   Belum memiliki akun? <a href="register.php" class="text-primary">Buat</a>

@@ -83,7 +83,7 @@
                                 <table border="1" align="center">
                                 <table border="0" align="center">
         <tr>
-        <td><img src="img/kudus.png" width="70" height="87" alt=""></td>
+         <td><img src="img/logo-pemko.png" width="70" height="87" alt=""></td>
         <td></td>
         <td></td>
         <td></td>
@@ -105,10 +105,10 @@
         <td></td>
             <td>
                 <center>
-                    <font size="4">PEMERINTAHAN KABUPATEN KUDUS</font><br>
-                    <font size="4">KECAMATAN KOTA KUDUS</font><br>
-                    <font size="5"><b>KELURAHAN WERGU WETAN</b></font><br>
-                    <font size="2"><i>JL. Loram No.9 Kudus 59318</i></font><br>
+                    <font size="4">PEMERINTAH KOTA TANJUNGPINANG</font><br>
+                    <font size="4">KECAMATAN TANJUNGPINANG TIMUR</font><br>
+                    <font size="5"><b>KELURAHAN BATU IX</b></font><br>
+                    <font size="2"><i>Jl. Adi Sucipto, Batu IX, Kec. Tanjungpinang Tim., Kota Tanjung Pinang, Kepulauan Riau 29125</i></font><br>
                 </center>
             </td>
         <td></td>
@@ -153,7 +153,7 @@
     <table border="0" align="center">
         <tr>
             <td>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yang bertanda tangan di bawah ini Lurah Wergu Wetan Kabupaten Kota <br> Kudus, Menerangkan bahwa :
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yang bertanda tangan di bawah ini Lurah Batu IX Kota <br> Tanjungpinang, Menerangkan bahwa :
             </td>
         </tr>
     </table>
@@ -229,7 +229,7 @@
         <tr>
             <td>Tanda tangan <br> Yang bersangkutan </td>
             <td></td>
-            <td>Lurah Wergu Wetan</td>
+            <td>Lurah Batu IX</td>
         </tr>
         <tr>
             <td rowspan="15"></td>
@@ -281,7 +281,7 @@
         <tr>
             <td><b style="text-transform:uppercase"><u>(<?php echo $nama;?>)</u></b></td>
             <td></td>
-            <td><b><u>(AGUS SUPRIYANTO)</u></b></td>
+            <td><b><u>(REJAB ELY S.Sos)</u></b></td>
         </tr>
     </table>
                                 

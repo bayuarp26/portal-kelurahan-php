@@ -15,7 +15,7 @@
 						<form method="POST" enctype="multipart/form-data">
 							<div class="card">
 								<div class="card-header">
-									<div class="card-title">FORM TAMBAH REQUEST SURAT KETERANGAN LAINNYA</div>
+									<div class="card-title">FORM TAMBAH REQUEST SURAT KETERANGAN PINDAH</div>
 								</div>
 								<div class="card-body">
 									<div class="row">

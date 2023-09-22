@@ -64,14 +64,6 @@
                                                 <!-- <input type="date" name="tgl_acc" class="form-control"> -->
                                                     <input type="submit" name="ttd" value="Kirim" class="btn btn-primary btn-sm">
                                                     <a href="cetak_skp.php?id_request_skp=<?=$id;?>" class="btn btn-primary btn-sm">Cetak</a>
-                                                <!-- <div class="form-group">
-                                                    <a href="cetak_skd.php?id_request_skd=<?php $id;?>">
-                                                        Cetak
-                                                    </a>
-                                                </div> -->
-                                                <!-- <div class="form-group">
-                                                   <a href="cetak_skd.php?id_request_skd=<?=$id;?>">a</a>
-                                                </div> -->
                                             </div>
                                         </form>
                                         <?php
@@ -100,7 +92,7 @@
                                 <table border="1" align="center">
                                 <table border="0" align="center">
         <tr>
-        <td><img src="img/kudus.png" width="70" height="87" alt=""></td>
+        <td><img src="img/logo-pemko.png" width="70" height="87" alt=""></td>
         <td></td>
         <td></td>
         <td></td>
@@ -120,12 +112,12 @@
         <td></td>
         <td></td>
         <td></td>
-            <td>
+        <td>
                 <center>
-                    <font size="4">PEMERINTAHAN KABUPATEN KUDUS</font><br>
-                    <font size="4">KECAMATAN KOTA KUDUS</font><br>
-                    <font size="5"><b>KELURAHAN WERGU WETAN</b></font><br>
-                    <font size="2"><i>JL. Loram No.9 Kudus 59318</i></font><br>
+                    <font size="4">PEMERINTAH KOTA TANJUNGPINANG</font><br>
+                    <font size="4">KECAMATAN TANJUNGPINANG TIMUR</font><br>
+                    <font size="5"><b>KELURAHAN BATU IX</b></font><br>
+                    <font size="2"><i>Jl. Adi Sucipto, Batu IX, Kec. Tanjungpinang Timur, Kota Tanjung Pinang, Kepulauan Riau 29125</i></font><br>
                 </center>
             </td>
         <td></td>
@@ -158,7 +150,7 @@
         <tr>
             <td>
                 <center>
-                    <font size="4"><b>SURAT KETERANGAN / PENGANTAR LAINNYA</b></font><br>
+                    <font size="4"><b>SURAT KETERANGAN PINDAH</b></font><br>
                     <hr style="margin:0px" color="black">
                     <span>Nomor : 045.2 / <?php echo $id;?> / 29.07.05</span>
                 </center>
@@ -170,7 +162,7 @@
     <table border="0" align="center">
         <tr>
             <td>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yang bertanda tangan di bawah ini Lurah Wergu Wetan Kabupaten Kota <br> Kudus, Menerangkan bahwa :
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yang bertanda tangan di bawah ini Lurah Batu IX Kota <br> Tanjungpinang, Menerangkan bahwa :
             </td>
         </tr>
     </table>
@@ -242,12 +234,12 @@
         <tr>
             <th></th>
             <th width="100px"></th>
-            <th>Kudus, <?php echo $format3;?></th>
+            <th>Tanjungpinang, <?php echo $format3;?></th>
         </tr>
         <tr>
             <td>Tanda tangan <br> Yang bersangkutan </td>
             <td></td>
-            <td>Lurah Wergu Wetan</td>
+            <td>Lurah Batu IX</td>
         </tr>
         <tr>
             <td rowspan="15"></td>
